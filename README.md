@@ -19,7 +19,9 @@ Você está encarregado de testar a validação de dados cadastrais em um sistem
 - Endereço (com campos para rua, cidade, estado e CEP)
 
 Houve alterações nos campos mencionados acima no cadastro do cliente, quais testes você faria para validar que o(s) campo(s) esta(ão) funcionando conforme esperado?
-![Alterar pessoa](LogoMagazord.png)
+
+![Alterar pessoa](AlterarPessoa.png)
+
 **Orientação:** Crie casos de teste para validar a entrada de dados nos campos modificados.
 
 
@@ -27,7 +29,7 @@ Houve alterações nos campos mencionados acima no cadastro do cliente, quais te
 
 O cliente enviou o seguinte erro causado pela tentativa de importação de um arquivo XML de GNRE no site https://www.gnre.pe.gov.br:444/gnre/v/lote/processar
 
-![Alterar pessoa](LogoMagazord.png)
+![Alterar pessoa](ProcessamentoLote.png)
 
 Analise o XML exportado e documente o motivo pelo qual o erro está acontecendo.
 
