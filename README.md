@@ -87,3 +87,6 @@ Analise o XML exportado e documente o motivo pelo qual o erro está acontecendo.
 - Os candidatos serão avaliados com base na clareza, precisão e detalhamento das respostas.
 - A capacidade de compreender e comunicar efetivamente requisitos e problemas é fundamental.
 - A organização e a estrutura das respostas também serão consideradas na avaliação.
+
+## Envio do teste:
+Suba o repositório no seu Github e envie o link diretamente para o seu recrutador. Obs.: Não serão aceitos alterações após o envio.
